@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+button{
+    background-color: #4CAF50;
+    color: white;
+  padding: 10px 20px;
+    font-weight: bold;
+}
